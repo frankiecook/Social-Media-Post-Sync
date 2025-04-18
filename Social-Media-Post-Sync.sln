@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Social-Media-Post-Sync", "Social-Media-Post-Sync.csproj", "{C2EB1E28-F36D-480E-AAEF-ACDA202C6F9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2EB1E28-F36D-480E-AAEF-ACDA202C6F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2EB1E28-F36D-480E-AAEF-ACDA202C6F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2EB1E28-F36D-480E-AAEF-ACDA202C6F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2EB1E28-F36D-480E-AAEF-ACDA202C6F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDC34674-6416-49EC-B6E2-B24FE796B7AD}
+	EndGlobalSection
+EndGlobal
