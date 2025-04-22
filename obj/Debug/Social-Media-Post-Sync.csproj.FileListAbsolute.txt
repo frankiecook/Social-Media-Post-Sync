@@ -1,0 +1,11 @@
+C:\Users\nfcoo\Documents\GitHub\Social-Media-Post-Sync\bin\Debug\Social-Media-Post-Sync.exe.config
+C:\Users\nfcoo\Documents\GitHub\Social-Media-Post-Sync\bin\Debug\Social-Media-Post-Sync.exe
+C:\Users\nfcoo\Documents\GitHub\Social-Media-Post-Sync\bin\Debug\Social-Media-Post-Sync.pdb
+C:\Users\nfcoo\Documents\GitHub\Social-Media-Post-Sync\obj\Debug\Social-Media-Post-Sync.csproj.AssemblyReference.cache
+C:\Users\nfcoo\Documents\GitHub\Social-Media-Post-Sync\obj\Debug\Social-Media-Post-Sync.csproj.SuggestedBindingRedirects.cache
+C:\Users\nfcoo\Documents\GitHub\Social-Media-Post-Sync\obj\Debug\Social_Media_Post_Sync.Form1.resources
+C:\Users\nfcoo\Documents\GitHub\Social-Media-Post-Sync\obj\Debug\Social_Media_Post_Sync.Properties.Resources.resources
+C:\Users\nfcoo\Documents\GitHub\Social-Media-Post-Sync\obj\Debug\Social-Media-Post-Sync.csproj.GenerateResource.cache
+C:\Users\nfcoo\Documents\GitHub\Social-Media-Post-Sync\obj\Debug\Social-Media-Post-Sync.csproj.CoreCompileInputs.cache
+C:\Users\nfcoo\Documents\GitHub\Social-Media-Post-Sync\obj\Debug\Social-Media-Post-Sync.exe
+C:\Users\nfcoo\Documents\GitHub\Social-Media-Post-Sync\obj\Debug\Social-Media-Post-Sync.pdb
